@@ -3,6 +3,7 @@ import json
 import os
 import pandas as pd
 import urllib.parse
+import time
 
 if not os.path.exists('./WebCrawle-eslite'):
     os.mkdir('./WebCrawle-eslite')
@@ -52,10 +53,13 @@ for p in range(0,manypage):
             picture.append(book_picture)
         except :
             picture.append('0')
+        time.sleep(1)
+        print('loading')
+    print('==第{}頁=='.format(p))
     page += 1
 
 eslite =pd.DataFrame({'書名': bookname,'書籍網址': bookURL,'作者': bookauthor,'出版社': booksupplier, 'ISBN': bookisbn13,'圖片網址': picture})
-eslite.to_csv("./eslite-{}.csv".format(keywords),encoding='utf-8-sig',index=False)
+eslite.to_csv("./WebCrawle-eslite/eslite-{}.csv".format(keywords),encoding='utf-8-sig',index=False)
 
 
 
