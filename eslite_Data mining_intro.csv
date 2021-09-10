@@ -1,0 +1,118 @@
+﻿ISBN,書籍簡介
+9780273769224,"Introduction to Data Mining presents fundamental concepts and algorithms for those learning data mining for the first time. Each concept is explored thoroughly and supported with numerous examples. The text requires only a modest background in mathematics. Each major topic is organized into two chapters, beginning with basic concepts that provide necessary background for understanding each data mining technique, followed by more advanced concepts and algorithms."
+9780387249933,0
+9789574933211,"本書的內容包括：企業的資料挖礦、行銷和銷售自動化、企業資源規劃、資料挖礦的個案研究、工業和應用程式、技術和工具、資料倉儲、資料挖礦、OLAP、Web隱密性和安全性、建立商業個案以及完全開發。 資料挖礦競爭優勢：資料挖礦是一項可以挖掘資料樣式的技術，能提高公司的競爭優勢。你或許聽過這個不可或缺的技術，不過你要如何實際應用以達成公司的特殊需求？本書正是你所需要的。內容包羅萬象、淺顯易懂，看過之後你將會明瞭建立資料倉儲和資料挖礦系統的好處。本書介紹的是這個系統可以做的事情，而不是系統是怎麼執行的。一開始先概略的介紹資料挖礦工具市場的目前狀態，書中會介紹如何建立並使用這些新系統，為你的公司謀得最大的利益。 本書將重點放在幾個關鍵的商業程序，包括顧客關係管理（CRM）、一對一行銷、行銷自動化、銷售自動化、企業資源管理、以及供應鍊的最佳化。將適合的商業個案集中在一起，找出各種主要工業所遇到問題的解決方案。 作者的寫作風格明快清晰，你可以清楚的知道要如何：1. 了解資料挖礦可以派上用場的地方，取得最大的利潤 2. 從真實世界的例子學習 3. 做出明智的抉擇，組織做好使用資料挖礦和資料倉儲的準備 4. 規劃成功的專案計畫，找出合乎成本效益和時效的商業解決方案 5. 製作商業個案，以建立商業解決方案 6. 打算在企業中實施資料管理的顧問、CIO和IS管理者，將會發現本書是一大妙方，可以幫助他們選擇正確的系統，獲得最大的利潤。 譯者簡介葉涼川，台北人，國立政治大學應用數學系畢業。曾經任職程式設計師數年，目前從事翻譯和寫作。譯著有：《21天COBOL自學方案》（碁峰）、《Microsoft Visual InterDev 6.0 enterprise 進階程式設計實務》（Microsoft Press）、《Windows 98簡單化》、《Windows 98技術問答手冊》、《Maximizing Windows 98中文版》、《Visual Basic 6自學手冊》、《Office 2000技術問答手冊》、《Visual Basic 6完全程式設計手冊》（以上均為麥格羅．希爾出版）。  "
+9789865023195,"從事資料科學方面的工作時，活用各種相關函式庫、軟體框架、模組、工具包是很好的做法，但如果原本完全不懂資料科學，從頭開始也是一種不錯的做法。本書將採取土法煉鋼從頭學起的方式，帶領讀者認識與資料科學相關的許多工具與演算法。 你只要具備基本的數學能力，以及程式設計的基礎，本書就可以幫你在遇到相關的數學與統計知識時，不至於感到害怕，而且還能讓你學會一個資料科學家所需具備的相關駭客技術。如今到處充斥著各種雜亂的數據資料，其中包含許多問題的解答，但也有很多微妙之處，甚至連問題本身都還沒被提出來過。如果你真心想要挖掘問題的解答，本書將可以提供你一些相關的知識。 ．首先來一堂Python速成班 ．學習線性代數、統計、機率的基礎知識——並學會何時、如何在資料科學領域中靈活運用這些知識 ．搜集、探索、清理、轉換、處理各種數據資料 ．深入理解機器學習的基礎 ．靈活運用像是k最近鄰、單純貝氏、線性與邏輯迴歸、決策樹、神經網路、集群等種種模型 ．探討推薦系統、自然語言處理、網路分析、MapReduce與資料庫的相關知識 ________________________________________ 名人推薦 「Joel帶領我們領略探索資料科學，讓我們從一般的好奇心，進入到更深入的理解，並學會所有資料科學家都應該知道的各種實用演算法。」 —— Rohit Sivaprasad, Soylent公司資料科學家 「對於想要了解機器學習的工程師而言，這是一本奠定基礎的最佳入門書。」 -- Tom Marthaler, Amazon專案經理 「要將資料科學的概念轉換為程式碼並不容易，這本書讓它變簡單了。」 -- William Cox, Grubhub機器學習工程師"
+9789865025588,📶 給新聞工作者與菜鳥調查員的資料分析指南📶 Twitter上的網軍是否能左右總統大選？Facebook和Reddit的資料副本能提供哪些有關人類行為的資訊？BuzzFeed的資深新聞工作者Lam Thuy Vo將藉由本書告訴您如何利用Python和關鍵的資料分析工具，查找隱藏在社交平台底下的故事。 無論你是專業新聞工作者、學術研究人員或是公民調查員，都需要學習使用資訊工具蒐集和分析社交平台所提供的資料，建立引人入勝、以資料為導向的報告。 本書特色 • 使用Python腳本及API，從社交平台取得待分析的原始資料 • 下載分析對象的原生資料副本檔 • 檢視從網站下載的HTML網頁，找出有用的內容 • 利用Google試算表為蒐集的資料進行格式化、彙計、排序及篩選 • 建立視覺化圖表，以闡述研究結果 • 利用Python、Jupyter Notebooks及pandas程式庫從事進階資料分析 • 將所學的知識及技巧應用到自己的研究領域 社交平台充滿無數等待被揭露的內幕，看完本書，讀者可以學會利用專業人士常用的資料調查工具，寫出具備個人特色、以資料為依據的研究報告。
+9789865668600,"本書介紹以實務為基礎的研究方法，強調利用實務工作者現有的資料庫，用質化或量化方法探討實務議題或情境以產出知識，形成「實務智慧」。這是一本整合實務與研究的好書，不只探討社會工作的科學面（研究工作），也強調社會工作的專業面（實務工作），適合社會工作實務工作者、碩博士班學生或其他輔助性醫療專業人員使用。  適用課程︰「研究方法」、「論文寫作」等相關課程。適用對象︰社會科學院大學部與研究所學生，及專業之實務工作者。"
+9789864760268,這本內容完整深入，但又不至於太技術性的指南介紹了數據科學的基礎原則，並引導你了解從資料中抽出有用知識與商業價值所需的「數據分析思維」。透過數據科學原則的學習，你會了解今日常用的許多資料採礦技術。更重要的是，這些原則鞏固了經由資料採礦技術解決商業問題所需之程序與策略的基礎。 「這本書超越了數據分析入門手冊的層次，它是我們這些以無所不在的數據商機及新的數據導向決策任務為事業基礎者（所有人？）的必備指南。」 －－Tom Phillips，Media6Degrees首席執行長，前Google搜尋與分析主管 「兩位作者都是在數據科學有名氣之前就已聲譽卓著的專家，他們將複雜的主題處理得淺顯易懂，讓所有人都能輕鬆閱讀。這是第一本談論數據科學觀念之商業問題實際應用的著作。本書藉由羅各種引人入勝的真實案例，點出商業上大家所熟悉、常見的問題，像顧客流失、目標市場行銷，甚至是威士忌分析！ 此書獨特的地方在於，它不是直接提供你各種演算法，而是幫助讀者了解數據科學背後的基礎概念，以及最重要的，如何處理並成功地解決問題。無論你想要的是綜合性的數據科學概論，或者你是個需要打好基礎的新手數據科學家，這都是一本必讀好書。」 －－Chris Volinsky，AT&T實驗室統計研究總監，為Netflix所舉辦的百萬美元挑戰賽的優勝團隊成員之一 「資料數據是產能增長、創新與更豐富之顧客洞察等新浪潮的基礎，直到最近才被廣泛視為競爭優勢來源，妥善處理數據正迅速成為不被淘汰的籌碼。作者們深度的應用經驗讓此書成為必讀經典，讓你能窺見競爭對手的策略。」 －－Alan Murray，連續創業家，Coriolis Ventures合夥人 
+9789864769254,"
+用PANDAS、NUMPY和IPYTHON做資料分析
+
+「本書已是Python資料生態圈的經典之作。這個新版本更新了從Python 3.6到最新版pandas功能，這些關鍵領域的更新更增加本書價值。透過說明為何使用Python資料工具的原因和用法，協助讀者以全新及富創意的方法，學會如何有效率的使用它們。書中的概念對任何資料密集計算的現代函式庫都很重要。」
+
+—Fernando Pérez
+Statistics, UC Berkeley統計學助理教授
+IPython以及Jupyter專案創立人
+
+內含操作、處理、清理和處理資料集合的完整Python指引。本書第二版已更新至Python3.6版，新增收錄許多實用學習範例，讓你看到如何有效率解決資料分析問題。在過程中你會學到最新版本pandas、NumPy和IPython及Jupyter。
+
+
+本書由Python pandas專案創立人Wes McKinny所著，是一本實用又現代的資料科學Python工具書，對於剛接觸Python的分析人員，或是新接觸資料科學和科學計算的Python工程師而言，本書是理想的選擇。相關資料檔案和材料均能在GitHub上取得。
+
+●使用IPython shell和Jupyter Notebook進行探索性計算
+●學習NumPy(Numberical Python)基礎與進階功能
+●開始使用pandas函式庫中的資料分析工具
+●使用有彈性的工具進行載入、清理、轉換、合併與重新塑造資料
+●應用pandas的groupby功能，對資料集進行切片、切塊和彙整
+●分析和操作規律與無規律的時間序列資料
+●利用全面、詳細的範例學習如何解決真實世界的資料分析問題
+"
+9789864793884,"2018/3/1~3/7誠品獨家限時75折大數據塑造的新型資本主義，滔天浪潮已然來襲，
+大數據權威麥爾荀伯格，再次提出他對這波新浪潮的獨到見解。
+《大數據資本主義》將深入探究市場機制的演變、
+企業面對的挑戰、金錢角色的定位、金融體系的未來、
+工作機會的轉變，以及如何因應、並實現社會正義。 從二十世紀的金融資本主義，轉型到二十一世紀的數據資本主義，巨變已經發生，且正在加劇，規模和震度就相當於從農業社會轉型到工業社會。
+麥爾荀伯格以具體的例證、深刻的思索，提出他所洞察到的種種問題、以及可能的解方：
+●金錢的交易功能雖可維持，
+	但金錢的資訊功能將被大數據（與富數據）接管，
+	數據是新資本，代表金流、人流、物流的新趨向。
+● 金融資本開始貶值之後，
+	哪些世代、哪些企業，將受到最嚴重的打擊？
+● 人工智慧介入企業的日常事務與決策流程，
+	擁有哪種技能的人，難被取代？
+	應當課徵「機器人稅」嗎？
+	全民基本收入（UBI）能解決社會問題？
+	我們能否把最重要的選擇權，握在自己手裡？
+● 傳統銀行有如駛進暴風圈的黃金商船，
+	正面臨三大威脅，銀行該怎樣應對危局？
+● 超級巨星企業雄霸市場，少數人鯨吞了經濟成長的果實，
+	面對富數據市場的「老大哥」，法規和稅制須如何因應，
+	以促進多元性、避免集中化，讓市場更有效率、社會更永續？"
+9789864773558,"◎誠品書店當月選書
+◎亞馬遜非文學類當月選書
+◎亞馬遜 2017 年年度最佳商管書
+◎《財星》雜誌當月最佳商業書籍
+◎《紐約時報》暢銷書
+◎《經濟學人》《紐約郵報》《圖書館期刊》等多家媒體推薦
+
+大數據下的真實人性！
+結合《精準預測》的大量資訊分析、《異數》的敘事風格，以及《蘋果橘子經濟學》的機智風趣。
+Google前資料分析師描寫大數據最令人信服、深具挑釁，甚至令人捧腹大笑的一本書！
+
+人們謊報在回家途中喝了多少酒，
+謊稱自己多常上健身房和新鞋子買多少錢，
+就連沒看過的書也說自己有看過。
+沒生病卻打電話請病假，說再聯絡卻不再聯絡。
+人們說事情跟你無關，但其實就跟你有關。
+明明不愛你，卻騙你說愛你。
+心情不好時卻說自己很開心，
+明明喜歡男人，卻說自己喜歡女人。
+人們對朋友說謊、對老闆說謊、對子女說謊、對父母說謊、
+對醫生說謊、對老公說謊、對老婆說謊，也對自己說謊。
+作者證明大數據提供一種前所未有的方式，
+讓我們窺探人們的內心世界，
+因為人們透過鍵盤才會在無意中私密地坦承千奇百怪的事情。
+
+歐巴馬當選表示美國的種族歧視緩解了？錯！
+黑人球員進入職業運動殿堂是貧困孩子奮發向上的勵志故事？大部分不是！
+挑選賽馬最重要的參考依據是血統？不！
+父母對待兒子和女兒的態度不一樣嗎？不一樣！
+佛洛伊德說夢境中的事物都有性意涵，這是對的嗎？很可能不對！
+
+回答問卷、民意調查、接受採訪、臉書貼文－－我們都有可能說謊；
+但是你的搜尋行為可不會說謊！
+大數據，呈現我們每個人、每秒鐘無意識的反射！
+
+無論是嚴肅或日常的議題，如今我們已有途徑能解答不久之前因種種原因（例如缺乏數據，或單純不敢提問）還未能解答的問題。
+
+四年前，作者還是哈佛經濟系博士班學生，正努力找尋論文題目。有天早上，他發現 Google 基本上已為所有研究者備好所需的資料，也就是說，Google 是全球人類興趣資料庫的集中地，這些資料簡直就是任何對人類行為感興趣的人夢寐以求的：從我們每個人每天的網路搜尋中找到行為模式。然而，這些資料早已存在好些時日，卻從未有任何報章雜誌對其有過深刻的報導與研究。
+
+作者深入研究 Google、推特（Twitter）、臉書（Facebook）、警察局紀錄、電影票收據、維基百科、色情網站、棒球球員個人成績表，和你想像不到的數位與傳統資料來源之後，發現這些資料來源有個共通的特點：他們提供的是大數據，亦即我們每個人每秒鐘無意識的反射，而非根據民意調查而來的一小部分民眾的意見樣本。
+
+網路上的新數據，也就是數十億人在 Google、社群媒體、約會網站，甚至色情網站留下的數位足跡，最後會揭穿事實真相。這些不僅是新類型的數據，更有些是「誠實」的數據，在匿名機制下，彷彿四下無人時，人們才會吐露自己最真實的想法，以及真正想問的尷尬問題。這類數據就像數位版的「誠實豆沙包」，讓人們表達出自己的無性婚姻、個人精神健康問題、不安全感、受虐，以及對黑人或穆斯林的憎惡。透過分析這座數字金礦，我們現在可以了解人們真正在想什麼，真正想要什麼，以及真正做了什麼。
+
+作者在本書中展示，要從數據中獲得寶貴資訊，最關鍵的一點是：你必須問對問題。而大數據有四大關鍵力量可以協助：
+
+⒈大數據能讓你將數據切割分解，讓你見微知著及獲得具體的見解。
+⒉新的資料來源通常包括新類型的變數，比現存變數更能幫助我們了解複雜關係，並充分利用。
+⒊新的數位資訊能提供我們生活的真實樣貌，而非我們希望自己呈現給外人的形象。
+⒋大數據易於與實驗結合，使我們能測試因果關係，而非僅是相關性。
+
+進入網路新時代的這幾十年以來，我們在健康、道德、勞動市場、商業、恐怖主義、性別，以及種族等議題上有長足的認識。我們的數位足跡已把整個世界變成一個實驗室，本書將呈現出這場數位革命如何為我們每個人打開找尋隱藏真理的大門，一窺人們的內心世界，提出大數據時代真正的洞見。
+
+本書以極具啟發性的觀點解讀大數據，並以各式各樣有趣的案例忠實呈現網路世界與當代社會的現況，讓我們得以重新認識自己與這個世界。
+"
+9789862728949,"Google 知道你想要什麼；Facebook 知道你關注什麼；亞馬遜知道你花了多少錢、買了些什麼；電信業者知道你去了哪裡……在凡事皆可數據化的時代，消費者如你我，在企業面前都是赤裸、透明的。 ★《策略企業》（strategy+business）雜誌年度最佳商業書籍 這些情境，你一定不陌生：上網買張廉航機票，卻發現票價一日數變；想換支手機，卻搞不清楚電信業者開出的哪種方案最划算；想喝杯拿鐵，各咖啡店卻有五花八門的選擇和價位，讓你無從比較。 你的選擇變多了，但卻不清楚自己是否付出合理的價錢，只覺得錢包裡的錢好像越來越少，為什麼會這樣呢？ 企業無所不用其極地蒐集並分析我們的行為紀錄（包括偷看你的 e-mail），再加上擁有隨時更改產品、價格與使用條款的權力，在「服務吃到飽」（甚至免費）的背後，正希望我們「付錢付到死」。 大數據成為企業的獲利武器之際，本書會告訴你，身為相對弱勢的消費者，該如何保護自己、保護我們口袋裡的錢。"
+9789865024833,特徵工程是機器學習生產線中關鍵的步驟，不過這個領域還很少被單獨檢視過。在這本實用的書中，您會學到將特徵──原始資料的數值表達法──淬取與轉換為機器學習模型格式的技術。每一章都使用單一的資料問題來導引您，例如如何表達文字或影像資料。綜合在一起後，這些範例就描繪了特徵工程的主要原理。 不是只教導這些原理，作者Alice Zheng和Amanda Casari也在整本書中使用習題來聚焦在實際應用上。最後一章會藉由在一個真實的結構化資料集上應用數種特徵工程技術來總結全書所學。程式碼範例則使用了Python的套件，包括numpy、Pandas、scikit-learn、以及Matplotlib。 您會學到： ‧數值資料的特徵工程：過濾、分箱、縮放、對數轉換及次方轉換 ‧自然文本技術：詞袋、n元語法及片語偵測 ‧以基於頻率之過濾與特徵縮放來消除不具資訊性的特徵 ‧類別變數的編碼技術，包括特徵雜湊和分箱計數 ‧使用主要成份分析進行基於模型的特徵工程 ‧模型堆疊和使用k-means作為特徵淬取技術的概念 ‧使用手動和深度學習技術之影像特徵淬取
+9789865022990,本書是由Spark這個專案的成員所撰寫，詳盡的說明如何使用、部署與維運Apache Spark。本書將帶領您探索Spark結構化API基礎操作、結構化串流，並透過新的高階API建立端到端的串流應用。開發與系統管理人員可由本書學習到如何進行Spark的監控、調校以及除錯，以及如何使用MLlib分散式機器學習函式庫。 ．完整說明大數據與Spark ．透過實際的範例學習DataFrame、SQL與Dataset等Spark核心API概念 ．深入了解Spark低階API、RDD以及DataFrame與SQL的關係 ．學習如何在叢集環境運行Spark ．針對Spark叢集與應用程式進行除錯、監控與調校 ．體會Spark結構化串流處理引擎的威力 ．學習MLlib函式庫並將其應用於多種分類或推薦等機器學習專案中 Bill Chambers是Databricks的產品經理，專注於大數據分析並提供企業用戶完整的文件與協作讓客戶藉由Spark與Databricks取得成功。 Matei Zaharia是史丹佛電腦科學系的助理教授以及Databricks的技術長。他於2009在加州柏克萊大學發起Spark專案，同時他也是Apache Mesos專案的共同發起人以及Apache Hadoop的早期貢獻者。
+9780807061268,"An accessible guide that breaks down the complex issues around mass surveillance and data privacy and explores the negative consequences it can have on individual citizens and their communities.No one is exempt from data mining: by owning a smartphone, or using social media or a credit card, we hand over private data to corporations and the government. We need to understand how surveillance and data collection operates in order to regain control over our digital freedoms—and our lives.Attorney and data privacy expert Heidi Boghosian unpacks widespread myths around the seemingly innocuous nature of surveillance, sets the record straight about what government agencies and corporations do with our personal data, and offers solutions to take back our information. “I Have Nothing to Hide” is both a necessary mass surveillance overview and a reference book. It addresses the misconceptions around tradeoffs between privacy and security, citizen spying, and the ability to design products with privacy protections. Boghosian breaks down misinformation surrounding 21 core myths about data privacy, including:“Surveillance makes the nation safer.”“No one wants to spy on kids.”“Police don’t monitor social media.”“Metadata doesn’t reveal much about me.”“Congress and the courts protect us from surveillance.”“There’s nothing I can do to stop surveillance.”By dispelling myths related to surveillance, this book helps readers better understand what data is being collected, who is gathering it, how they’re doing it, and why it matters."
+9789577359926,"【想深入了解大數據、資料探勘的讀者請進！！】 什麼是資料前處理？電信業者跟資料探勘有什麼關係？神經網路具體到底是什麼？集群分析的演算法有哪些？ ◎資料探勘的「十大經典演算法」你都認識嗎？ 　　國際權威的學術組織the IEEE International Conference on Data Mining （ICDM）評出了資料探勘領域的十大經典演算法：C4.5、K-Means、SVM、Apriori、EM、PageRank、AdaBoost、KNN、Naive Bayes和CART。 1．C4.5演算法　　C4.5是一種用在機器學習和資料探勘領域的分類問題中的演算法。它基於以下假設：給定一個資料集，其中的每一個元組都能用一組屬性值來描述，每一個元組屬於一個互斥的類別中的某一類。C4.5的目標是透過學習，找到一個從屬性值到類別的映射關係，並且這個映射能用於對新的類別未知的實體進行分類。 2．The K-Means Algorithm （K-Means演算法）　　K-MeansAlgorithm是一種聚類演算法，它把n個對象根據他們的屬性分為k個分割，k ◎結構化／半結構化／非結構化資料有什麼不同？　　（一）結構化資料：能夠用數據或統一的結構加以表示的資料，如數字、符號。傳統的關係資料模型，儲存於資料庫，通常可用二維表結構表示。　　（二）非結構化資料：是指其欄位長度可變，並且每個欄位的記錄又可以由可重複或不可重複的子欄位構成的資料庫，用它不僅可以處理結構化資料（如數字、符號等資訊）而且更適合處理非結構化資料（全文文字、圖像、聲音、影視、超媒體等資訊）。　　（三）半結構化資料： XML、HTML文檔就屬於半結構化資料。它一般是自描述的，資料結構和內容混在一起，沒有明顯的區分。 ◎如何設計神經網路的拓撲結構？　　在開始訓練之前，用戶必須確定網路拓撲，說明輸入層的單元數、隱藏層數（如果多於一層）、每個隱藏層的單元數和輸出層的單元數。 　　對訓練元組中每個屬性的輸入測量值進行規範化將有助於加快學習過程。通常，對輸入值規範化，使得它們落入0.0和1.0之間。離散值屬性可以重新編碼，使得每個域值有一個輸入單元。例如，如果屬性A有3個可能的或已知的值{a0，a1，a2}則可以分配三個輸入單元表示A，即我們可以用I0，I1，I2作為輸入單元。每個單元都初始化為0。如果A=a0，則I0置為1，其餘為0；如果A=a1，則I1置1，其餘為0；諸如此類。 　　神經網路可以用於分類（預測給定元組的類標號）和數值預測（預測連續值輸出）。對於分類，一個輸出單元可以用來表示兩個類（其中值1代表一個類，而值0代表另一個類）。如果多於兩個類，則每個類使用一個輸出單元。 ★全書特色　　全書分為九章，內容包括：大資料探勘與智慧營運的概念，資料前處理，資料探勘中的四種主流演算法：集群分析、分類分析、迴歸分析、關聯分析，增強型資料探勘演算法，資料探勘在營運商智慧營運中的應用案例，未來大資料探勘的發展趨勢等。主要提供給電信業者及其他高科技企業員工、大專院校學生和研究生，以及其他對資料探勘與精準行銷感興趣的讀者。"
+9781260576016,"Provides 1-2 semesters of business analytics content that takes a holistic approach to data analytics. Includes a real life case in each chapter, uses big data sets, writing with data and sample reports, and a unique (4 chapters) emphasis on data mining."
+9789869759045,"打破大數據的傲慢與偏見！讓「厚數據」引導你精準切入創新流程，看見未被滿足的需求！ 哈佛大學商學院、頂尖企業諮詢顧問公司ReD一致肯定 面對瞬息萬變的商業挑戰與AI智能——像人類學家一樣「挖掘厚數據」（Thick-Data Mining）的能力是你洞悉人性、精準創新的關鍵技能！ ＊人氣平台「百工裡的人類學家」創辦人，為你提煉出【5種洞察心法Ｘ6種視覺化工具Ｘ思維導圖】引導你有效挖掘厚數據找出創新方案！ 【本書特色】★ 深入直擊百工現場迳帶你見證創新商品的誕生★ 5個厚數據心法：換位/解構/翻轉/修補拼貼/融合迳找出未被滿足的需求★ 6個視覺化工具：3D立體思考迳幫你迅速切入創新任務 ★ 思維導圖：導入設計思考流程迳讓你的厚數據被看見 【本書簡介】厚數據的創新是一種「重新定義」的創新。透過對產品使用情境場景的重新審視，重新看見人們解決問題的替代方案，往往就能找到具體有用的「洞見」或是「線索」，導引我們完成創新的任務。 「避免大數據的傲慢與偏見！」精準挖掘厚數據，正是創新關鍵     相較於大數據，「厚數據」（thick data）是一種用於創新的質性研究資料，強調你必須能夠揭示出人們的情感、故事與意義。而在厚數據資料的收集上，由於借鏡人類學「以人為本」的視角，更能夠有效引導我們進入具體情境、勇敢「重新定義」，從中看見未被滿足的需求。     知名商業諮詢顧問公司ReD在《華爾街日報》〈厚數據的力量〉一文便指明——厚數據可以協助企業「理解消費者在接觸產品與服務時所產生的情感以及內在的脈絡」，因此可以避免落入「大數據的傲慢與偏見」，協助企業面對瞬息萬變的商業挑戰。 你的厚數據如何「被看見、被理解、被體驗」     本書透過5個心法、6個視覺化工具、10個視角與多張思維導圖，為你具體分析「厚數據創新」的路徑。這些工具將能幫你有效加深資料的「厚度」與「立體度」、 提升研究的效度與效率，快速找出創新的切入點： ★ 5個洞察心法：讓你看懂商品創新歷程搭配最具代表性的國際創新個案，展現人類學的觀察與解讀方式，並從中提煉出厚數據創新的5個心法——換位、解構、翻轉、修補拼貼、融合，舉例來說： 围 換位：人類學家幫助優沛蕾研發Go-Gurt、重新定義了美國早餐围 翻轉：樂高積木透過對兒童遊戲的田野調查，翻轉老產業 ★ 6個視覺化工具：精準找出創新切入點整合「設計思考」、「使用者經驗研究」與「服務設計」等領域的前沿研究方法，設計出六種挖掘厚數據的視覺化工具，幫助你在進行創新任務的田野調查時，有效進行厚數據的採集與分析：贯 「使用者基本維度圖」迳具體描繪用戶屬性贯 「元問題圖」迳三層結構問出關鍵問題贯 「身體隱喻提問圖」迳挖掘痛點、爽點、癢點贯 「使用經驗脈絡重建圖」迳界定任務場景、社會關係、情緒與物質條件的變化贯 「換位思考圖」迳探索潛在的、未被滿足的需求贯 「人物誌圖＋冰山模型圖」迳挖掘創新機會點、描繪創新路徑 ★ 思維導圖：教你「像人類學家一樣思考」掌握「習以不為常，理所不當然」的觀察訣竅，用人類學觀點解讀行為背後的意義、分析當中的文化邏輯，特別設計「創新思考題」，引導你進行創新應用的思考：  围 Line與微信：「更形象化的電子支付」「更視覺化的數字管理介面」是致勝關鍵围 精靈寶可夢——AR擴增實境、體感設計是跨世代社交與健身的創新方案围 VR、AR穿戴裝置——超越時空、即時分享的「數位地理學」體驗围 人工智慧與物聯網——超越「物自身」，進入「萬物有靈」的時代围 電玩上癮——欲罷不能？數位科技產品六個「成癮」要素围 髒髒包——打破「潔淨與污穢」、一起變髒的社交商機围 手搖杯——以「掌控感」與「小配件」創造不可或缺的小確幸  擁有「挖掘厚數據」的能力，你就是最被需要的人才——頂尖青年消費趨勢調查公司，開始設有人類學背景的「民族誌師」——「人類學實境田野調查」成為國際一流商管學院最熱門搶手的課程——國際頂尖設計公司IDEO總裁湯姆‧凱利（Tom Kelly）點名「人類學家是最被需要的人才」     以上最新趨勢與實例都證明，將人類學的觀察方法與田野調查技巧，實際應用於工作職場與生活觀察，將激活出巨大的創新能量。這，正是來自人類學「挖掘厚數據」的能力！     本書展現人類學家式的系統思考，幫你有效建立「厚數據」的思維模式與工作方法，你將可以：轩 獲取深刻的洞察力：Get人類學最精華的田野調查與觀察技巧轩 提煉創新關鍵能力：Get人類學方法在生活觀察與工作職場的應用轩 導出嶄新創意見解：Get人類學在創新創業上可以幫助你做到什麼"
+9780593229149,"For the first time, the Cambridge Analytica whistleblower tells the inside story of the data mining and psychological manipulation behind the election of Donald Trump and the Brexit referendum, connecting Facebook, WikiLeaks, Russian intelligence, and international hackers. Mindf*ck goes deep inside Cambridge Analytica's “American operations,” which were driven by Steve Bannon's vision to remake America and fueled by mysterious billionaire Robert Mercer’s money, as it weaponized and wielded the massive store of data it had harvested on individuals—in excess of 87 million—to disunite the United States and set Americans against each other. Bannon had long sensed that deep within America's soul lurked an explosive tension. Cambridge Analytica had the data to prove it, and in 2016 Bannon had a presidential campaign to use as his proving ground. Christopher Wylie might have seemed an unlikely figure to be at the center of such an operation. Canadian and liberal in his politics, he was only twenty-four when he got a job with a London firm that worked with the U.K. Ministry of Defense and was charged putatively with helping to build a team of data scientists to create new tools to identify and combat radical extremism online. In short order, those same military tools were turned to political purposes, and Cambridge Analytica was born. Wylie's decision to become a whistleblower prompted the largest data-crime investigation in history. His story is both exposé and dire warning about a sudden problem born of very new and powerful capabilities. It has not only laid bare the profound vulnerabilities—and profound carelessness—in the enormous companies that drive the attention economy, it has also exposed the profound vulnerabilities of democracy itself. What happened in 2016 was just a trial run. Ruthless actors are coming for your data, and they want to control what you think."
+9789863414179,"1. Added material on important techniques for data mining, including regression trees and neural network models in Chapters 11 and 13.2. The Chapter on logistic regression (Chapter 14) has been extensively revised and expanded to include a more thorough treatment of logistic, probit, and complementary log-log models, logistic regression residuals, model selection, model assessment, logistic regression diagnostics, and goodness of fit tests. We have also developed new material on polytomous (multicategory) nominal logistic regression models and polytomous ordinal logistic regression models. 3. We have expanded the discussion of model selection methods and criteria. The Akaike information criterion and Schwarz Bayesian criterion have been added, and a greater emphasis is placed on the use of cross-validation for model selection and validation. 4. New open ended 'Cases' based on data sets from business, health care, and engineering are included. Also, many problem data sets have been updated and expanded. 5. The text includes a CD with all data sets and the Student Solutions manual in PDF. In addition a new supplement, SAS and SPSS Program Solutions by Replogle and Johnson is available for the Fifth Edition."
+9789574428281,"走在路上、進到餐廳、聽完座談會、買完東西，甚至只是坐在家裡，都有可能會被要求填寫或回答問卷，而這些問卷到底藏有什麼重要的資訊？與企業的經營、未來的決策、新產品的開發，又有著什麼樣密不可分的關係？ 
+本書以豐富、簡單的例題，為您解說資料探勘的方法，透過Excel做為統計分析的工具，教您從蒐集來的資料中找到顧客重視的項目，發現最小的運送成本，做出最受歡迎的麵包口味，訂出最合理的套餐價格。除了企業經營，與生活密不可分的股票分析、冠軍球隊預測，也都有實例解說，只要將實際的數字填入Excel，就有可能掌握趨勢、贏得先機。 
+讀完本書，您將會發現Excel裡的數字不只是0～1的組合，更是幫助您做出正確決策的重要指標！ 不用求神問天命，數據就是決策力！本書將藉由以下實務範例，教您利用Excel進行資料探勘，正如「資料探勘」的英文 Data Mining，從資料（Data）這座礦山中，挖掘（Mining）出真有益於企業的無價寶石。 
+◎如何從少量的問卷中獲得重要資訊 ◎教你用平均值就找出合理價格 ◎中古車價多少才合理，一項一項算算看 ◎找出超市中蘋果的最小運送成本 ◎軟體開發專案該怎麼分配工作會最有效率 ◎找出擴大生產與提高工作效率並進的最佳計劃 ◎規劃出多項產品的最高利潤生產計劃 ◎年紀與喜歡的食物到底有沒有關係 ◎什麼樣職業、性別的人，最有可能會回覆廣告信 ◎透過記錄、分析就能看出球隊有沒有冠軍相 ◎找出顧客重視的點，著手打造人氣餐廳"
