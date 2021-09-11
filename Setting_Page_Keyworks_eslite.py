@@ -12,9 +12,9 @@ if not os.path.exists('./WebCrawle-eslite'):
     os.mkdir('./WebCrawle-eslite')
 
 keywords=str(input("請輸入搜尋關鍵字:"))
-urlkeywords=urllib.parse.quote(keywords)
+urlkeywords = urllib.parse.quote(keywords)
+manypage=int(input("請輸入需要幾頁:"))
 page=0
-manypage=0
 
 bookname=[]
 bookURL=[]
@@ -23,20 +23,6 @@ booksupplier=[]
 bookisbn13=[]
 picture=[]
 description=[]
-
-url_no = 'https://athena.eslite.com/api/v2/search?q={}&final_price=0,&sort=_weight_+desc&size=20&start={}'.format(urlkeywords,page)
-userAgent = ua.random
-
-headers_no = {
-    'Referer': 'https://www.eslite.com/Search?keyword={}&final_price=0%2C&sort=_weight_+desc&size=20&start={}'.format(urlkeywords,page)}
-res = requests.get(url_no, headers=headers_no)
-jsonData_no = json.loads(res.text)
-hitno = int(jsonData_no['hits']['found'])
-
-if hitno%20 == 0 :
-    manypage=int(hitno/20)
-else:
-    manypage=int(manypage+hitno/20 +1)
 
 
 for p in range(0,manypage):
@@ -85,8 +71,8 @@ for p in range(0,manypage):
         except :
             picture.append('0')
         time.sleep(3)
-        print('====')
-    print('==第{}頁=='.format(p))
+        print('{}有{}筆,共{}頁'.format(keywords,hitno,manypage))
+    print('==第{}頁=={}'.format(p,keywords))
     page += 1
 
 eslite =pd.DataFrame({'書名': bookname,'書籍網址': bookURL,'作者': bookauthor,'出版社': booksupplier, 'ISBN': bookisbn13,'圖片網址': picture})
