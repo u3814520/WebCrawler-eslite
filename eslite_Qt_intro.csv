@@ -1,0 +1,164 @@
+﻿ISBN,書籍簡介
+9781773950648,0
+9781789951752,0
+9781789803822,0
+9781789956030,0
+9781788995399,"An In-depth guide updated with the latest version of Qt 5.11 including new features such as Quick Controls and Qt Gamepad Key Features  Unleash the power of Qt 5.11 with C++ Build applications using Qt Widgets (C++) or Qt Quick (QML) Create cross-platform applications for mobile and desktop platforms with Qt 5  Book Description Qt 5.11 is an app development framework that provides a great user experience and develops full capability applications with Qt Widgets, QML, and even Qt 3D. Whether you're building GUI prototypes or fully-fledged cross-platform GUI applications with a native look and feel, Mastering Qt 5 is your fastest, easiest, and most powerful solution. This book addresses various challenges and teaches you to successfully develop cross-platform applications using the Qt framework, with the help of well-organized projects. Working through this book, you will gain a better understanding of the Qt framework, as well as the tools required to resolve serious issues, such as linking, debugging, and multithreading. You'll start off your journey by discovering the new Qt 5.11 features, soon followed by exploring different platforms and learning to tame them. In addition to this, you'll interact with a gamepad using Qt Gamepad. Each chapter is a logical step for you to complete in order to master Qt. By the end of this book, you'll have created an application that has been tested and is ready to be shipped. What you will learn  Create stunning UIs with Qt Widgets and Qt Quick 2 Develop powerful, cross-platform applications with the Qt framework Design GUIs with the Qt Designer and build a library in it for UI previews Handle user interaction with the Qt signal or slot mechanism in C++ Prepare a cross-platform project to host a third-party library Use the Qt Animation framework to display stunning effects Deploy mobile apps with Qt and embedded platforms Interact with a gamepad using Qt Gamepad "
+9781788831000,0
+9788891141774,"Questo libro non cerca di essere il manuale di Qt, ma attraverso esempi verosimili, ben congegnati tra loro, vi guider  alla realizzazione di vere applicazioni Desktop, sia per Linux che per Windows. Si parte con l'installazione dei ""*tool""* necessari, si arriva alla distribuzione dell'applicazione, passando per la creazione di librerie con il ""*D-Pointer Pattern*"". La narrazione romanzata """"Quanto Basta"""", arricchita di aneddoti rendono la lettura piacevole. Nella seconda edizione il testo   stato rivisto, gli esempi migliorati e resi disponibili sul sito dell'autore."
+9789865501150,人工智慧，大數據操作的後端，需要一個讓使用者能操作的前端介面。應用程式前端介面的選擇，除了Web、App、命令列之外，還有已存在30年的視窗程式。在大型專案開發中，雖然網頁已成為主流，但許多場合，還是有視窗程式的需求。 開發視窗程式首選當然是Visual Studio，但必須熟悉C++/C#。如果讀者已經熟悉了Python，又想開發視窗程式，Qt將會是最好的選擇。讀者只要會Python就可以了。 Qt C++ 類別庫是一套廣泛使用的跨平台GUI 設計類別庫，PyQt5 是Qt5 C++類別庫的Python 綁定，使用PyQt5 在Python 裡程式設計，可以將Python 豐富的科學計算、圖形顯示等功能與PyQt5 的GUI 設計功能結合起來，開發出比較專業的Python GUI 應用程式，便於對研究成果進行有效的整合與展示。 本書介紹在Python 中使用PyQt5、PyQtChart、Matplotlib 等進行GUI 應用程式設計和資料視覺化程式設計的方法，用最真實範例的方式，讓讀者熟悉Qt的開發方式，並且掌控所有視窗的元件，全書內容分為三部分。包括： ►完整Python、Qt開發環境的安裝 ► PyQt5程式設計架構 ►常用視窗元件使用，MV架構、GUI的增強設計 ►滑鼠鍵盤等事件的處理、對話方塊及多視窗的應用 ►資料庫的使用，使用了SQLITE ►PyQt5上的檔案操作、繪圖元件 ►PyQt5多媒體的操作，包括音樂及視訊 ►PyQtChart的圖表製作、PyQtDataVisualization的使用 ►最強大的人工智慧統計繪圖套件Matplotlib的使用 本書特色 ◎ 使用PyQt5 進行GUI 應用程式設計 ◎ 使用PyQtChart、PyQtDataVisualization 和Matplotlib 在GUI 程式的視窗介面上嵌入資料視覺化功能。 適合讀者群：具Python程式設計基礎、想透過Python設計GUI應用程式， 或在GUI應用程式中實現資料視覺化的讀者。
+9789862015292,快速掌握影像處理的基礎與實作，你也可以聰明做到筆者以多年的電腦視覺相關應用研究經驗，整理出了在學習影像處理時必需要學的13堂課，包含了影像輸出輸入、影像像素操作、色彩影像、如何使用Qt進行繪圖，以及特偵結取與影像搜尋法等13個章節。深入淺出的內容鋪陳，不但能學到數位影像處理的理論知識，更能與實際的實作做到完美的連結。透過本書可累積一定程度的實戰經驗，並以此做為開發基礎，必定能讓您成為觸類旁通的開發工程師。本書光碟內容，收錄書籍內容的範例檔案。附件內容書中範例程式碼與相關圖檔
+9781733576079,0
+9781800204584,"Enhance your cross-platform programming abilities with the powerful features and capabilities of Qt 6Key Features: Leverage Qt and C++ capabilities to create modern, cross-platform applications that can run on a wide variety of software applicationsExplore what's new in Qt 6 and understand core concepts in depthBuild professional customized GUI applications with the help of Qt CreatorBook Description: Qt is a cross-platform application development framework widely used for developing applications that can run on a wide range of hardware platforms with little to no change in the underlying codebase. If you have basic knowledge of C++ and want to build desktop or mobile applications with a modern graphical user interface (GUI), Qt is the right choice for you. Cross-Platform Development with Qt 6 and Modern C++ helps you understand why Qt is one of the favorite GUI frameworks adopted by industries worldwide, covering the essentials of programming GUI apps across a multitude of platforms using the standard C++17 and Qt 6 features.Starting with the fundamentals of the Qt framework, including the features offered by Qt Creator, this practical guide will show you how to create classic user interfaces using Qt Widgets and touch-friendly user interfaces using Qt Quick. As you advance, you'll explore the Qt Creator IDE for developing applications for multiple desktops as well as for embedded and mobile platforms. You will also learn advanced concepts about signals and slots. Finally, the book takes you through debugging and testing your app with Qt Creator IDE.By the end of this book, you'll be able to build cross-platform applications with a modern GUI along with the speed and power of native apps.What You Will Learn: Write cross-platform code using the Qt framework to create interactive applicationsBuild a desktop application using Qt WidgetsCreate a touch-friendly user interface with Qt QuickDevelop a mobile application using Qt and deploy it on different platformsGet to grips with Model/View programming with Qt Widgets and Qt QuickDiscover Qt's graphics framework and add animations to your user interfaceWrite test cases using the Qt Test framework and debug codeBuild a translation-aware applicationFollow best practices in Qt to write high-performance codeWho this book is for: This book is for application developers who want to use C++ and Qt to create modern, responsive applications that can be deployed to multiple operating systems such as Microsoft Windows, Apple macOS, and Linux desktop platforms. Although no prior knowledge of Qt is expected, beginner-level knowledge of the C++ programming language and object-oriented programming system (OOPs) concepts will be helpful."
+9781791866976,0
+,這部紀錄片專注於導演昆汀塔倫提諾，職業生涯的前21年，包括採訪和導演合作過的大明星們，以及前八部電影的精采片段，從1992年的第一部電影《霸道橫行》、《黑色追緝令》、《黑色終結令》、《追殺比爾１＆２》一直到全球票房叫好又叫座的《決殺令》，本片可以說是觀眾在看第九部新作後的最佳觀影大補帖。更是全球昆汀迷不可錯過的精彩集錦
+5050457002923,平克勞斯貝，Bing Crosby，美國歌星，1901年初生於華盛頓州，1977年逝世同地，他原是學校樂團的鼓手，後來在崗查加大學上法律課，1926年前往洛山雞演唱，一炮而紅，成名後學校雀頒給他榮譽音樂博士，他的歌聲低沈而清晰好聽，帶有感情的暢所欲言的豪放，成為人人讚美的低音歌星。本片他演唱50年代的早期在無線電台的好聽音樂，20首與他的男女好友的歌唱曲。
+9789865004538,本書分為兩大部分问第1部分－基礎篇（第1～8章）：包括Linux系統基本使用方法與其主要開發工具、檔案讀寫、多工機制、網路通訊端程式設計、模組與裝置驅動、嵌入式Linux系統的軟體結構、GUI程式設計初步等。问第2部分－實驗篇（第9～21章）：以美國德州儀器公司的卡片式電腦Beagle Bone為實驗物件，在此基礎上進行嵌入式Linux開發，按照從底層基本系統建立到上層應用軟體的移植和撰寫。內容包括實驗系統介紹、嵌入式系統開發實驗環境架設、BootLoader 的編譯和啟動裝置的製作、核心設定和編譯、root 檔案系統的建置、圖形使用者介面、音訊介面程式設計、嵌入式系統中的I/O介面驅動、觸控式螢幕移植、Qt/Embedded移植、MPlayer移植、GTK+移植、即時作業系統RTEMS。適用：可作為電子資訊、通訊、自動化等專業相關課程教材，也可供相關領域工程技術人員學習參考。※本書範例程式及各章練習參考解答請至深石數位網站下載http://www.deepstone.com.tw/
+,1. The ABC Song2. A3. B4. C5. D6. E7. F8. 複習A-F9. 造句A-F10. G11. H12. I13. J14. 複習G-J15. 造句G-J DVD21. The ABC Song2. K3. L4. M5. N6. O7. P8. 複習K-P9. 造句K-P10. Q11. R12. S13. T14. 複習Q-T15. 造句Q-T16. U17. V18. W19. X20. Y21. Z22. 複習U-Z23. 造句U-Z24.  My Family
+9789865003173,本書分為兩大部分 第1部分－基礎篇（第1～8章）： 包括Linux系統基本使用方法與其主要開發工具、檔案讀寫、多工機制、網路通訊端程式設計、模組與裝置驅動、嵌入式Linux系統的軟體結構、GUI程式設計初步等。 第2部分－實驗篇（第9～21章）： 以美國德州儀器公司的卡片式電腦Beagle Bone為實驗物件，在此基礎上進行嵌入式Linux開發，按照從底層基本系統建立到上層應用軟體的移植和撰寫。 內容包括實驗系統介紹、嵌入式系統開發實驗環境架設、BootLoader 的編譯和啟動裝置的製作、核心設定和編譯、root 檔案系統的建置、圖形使用者介面、音訊介面程式設計、嵌入式系統中的I/O介面驅動、觸控式螢幕移植、Qt/Embedded移植、MPlayer移植、GTK＋移植、即時作業系統RTEMS。 適用於： 可作為電子資訊、通訊、自動化等專業相關課程教材，也可供相關領域工程技術人員學習參考。 ●本書範例程式及各章練習參考解答 請至上奇資訊網站下載http://www.grandtech.info
+9789577275516,"◎來自德國的靈修書，每年暢銷百萬冊！
+◎ 現代人QT（QuietTime）的最佳選擇！
+
+第289年版，始於1731年的欽岑多夫
+時光遞嬗中，一本源自於悠久歷史，延續祝福的靈修書
+
+純淨，直接，簡樸
+神的話，人的回應
+引領我們遇見神，與神同行
+
+世界喧嚷幽暗，心將安穩在何處？
+主是真光，願祂的話語成為每日的引導與力量"
+9789864343058,從入門到實作應用帶領您走進圖形化介面的世界PyQt是Python用來撰寫圖形化使用者介面（GUI）的解決方案，可以用來代替Python內建的Tkinter。Python可以說是世界上極為廣泛、也非常簡單的程式語言，Qt則是最好的開發程式庫之一，而Python與Qt結合的產物就是PyQt。它既能利用Python強大又簡潔的語法，又不會失去Qt的強大功能。從Python的角度來說，凡是Python內含的所有簡潔、易用的語法，都可以應用至PyQt。從Qt的角度來看，以Qt開發出來的功能，在理論上改用PyQt也沒有問題。有些程式邏輯在Qt實作起來會比較複雜，但在PyQt卻很簡單，這才是PyQt最大的魅力之處。此外，PyQt5與PyQt4並不相容。Qt開發團隊已經明確宣佈，從2015年開始就放棄Qt4（對應至PyQt4）的支援，因此，對於想要瞭解PyQt的朋友來說，一開始就學習PyQt5是一個最好的選擇。●具備Python與PyQt的入門知識，即使初學者也能夠有所助益。●摒棄已不再被支援的PyQt4，直接學習大幅改版後的PyQt5。●介紹Qt Designer的用法，帶領您快速進入PyQt圖形化介面的世界。●PyQt5的佈局管理、訊號與槽的應用、圖形和特效的美化技巧盡在本書。●以實際案例，使讀者理解PyQt5在軟體專案和金融領域裡要如何應用。
+9781944903008,"美國國家公園攝影圖鑑，遠征59個國家公園，探索無窮無盡的大自然脈動頂尖自然風景攝影師QT Luong橫跨美國59個國家公園，以影像紀錄大自然之美，他的作品融合Ken Burns 特效攝影技術及Dayton Duncan的紀錄片《國家公園：美國的最佳創意》精髓，是目前作品量最豐富的風景攝影大師。耗費20年之久，300多次的造訪，遠征59個美國國家公園，以鏡頭捕捉最令人驚奇的自然奇景，超過500組攝影作品絕對讓你嘆為觀止。本書除了精湛的作品，也包括如何抵達國家公園的詳細地圖及導覽說明，熱愛自然風景的攝影愛好者同樣也能跟著QT Luong的腳步，一同走向遠征探索世界角落。書中收錄的國家公園包括：阿卡迪亞國家公園、惡地國家公園、峽谷地國家公園、死亡谷國家公園、大沼澤地國家公園、北極門國家公園、海勒卡拉國家公園、皇家島國家公園、約書亞樹國家公園、特邁國家公園和自然保護區、克拉克湖國家公園和自然保護區、猛獁洞國家公園、美屬薩摩亞國家公園及奧林匹克國家公園等。 It is said that a photograph helped launch the national parks. After Congress viewed photos of Yosemite, President Lincoln was moved to sign a bill that paved the way for the U.S. National Park Service, which was founded in 1916 and is now celebrating its centennial. In Treasured Lands: A Photographic Odyssey Through America's National Parks, photographer QT Luong pays tribute to the millions of acres of protected wilderness in our country's 59 national parks. Luong, who is featured in Ken Burns's and Dayton Duncan's documentary The National Parks: America's Best Idea, is one the most prolific photographers working in the national parks and the only one to have made large-format photographs in each of them. In an odyssey that spanned more than 20 years and 300 visits, Luong focused his lenses on iconic landscapes and rarely seen remote views, presenting his journey in this sumptuous array of more than 500 breathtaking images. Accompanying the collection of scenic masterpieces is a guide that includes maps of each park, as well as extended captions that detail where and how the photographs were made. Designed to inspire visitors to connect with the parks and invite photographers to re-create these landscapes, the guide also provides anecdotal observations that give context to the pictures and convey the sheer scope of Luong's extraordinary odyssey. Including an introduction by award-winning author and documentary filmmaker Dayton Duncan, Treasured Lands is a rich visual tour of the U.S. National Parks and an invaluable guide from a photographer who hiked--or paddled, dived, skied, snowshoed, and climbed--each park, shooting in all kinds of terrain, in all seasons, and at all times of day. QT Luong's timeless gallery of the nation's most revered landscapes beckons to nature lovers, armchair travelers, and photography enthusiasts alike, keeping America's natural wonders within reach."
+9789575567811,"生長在基督教家庭，但是不知道如何與主相遇的作者金良在，
+大學畢業後就嫁入人人稱羨的醫生家庭，沒想到從此墜入痛苦的深淵。
+每天被囚在家裡與婆婆比賽做家事的生活，終於逼她離家出走逃到禱告山裡，
+在孤苦無依中，透過默想上帝的話語，她真實遇見了永活的主，
+之後與婆婆的關係改善了，但不久卻又遭受喪夫之痛。
+透過本書，我們看見默想上帝話語能夠得著活潑有力的生命。
+
+在金良在的家中，十二個家庭開始了定期的默想聖經(Quiet Time)聚會。
+她深信生命中所有的問題都必須用上帝的話語來照亮，
+將近二十年以平信徒的身分盡心推廣QT（默想聖經)，成立了「默想宣教會」，
+她關心困苦、病痛的人，與哀哭的人同哀哭，
+2002年成立「我們的教會」，聚會人數不斷增加，至今達到逾七千信徒。
+
+本書是金良在牧師的個人信仰見證，也是關於默想聖經演練的分享，
+包括：如何選定教材、讀經、禱告、正確的心態、如何養成習慣等，
+同時也包括五章默想聖經實際應用的例子。
+仔細品嚐本書，你也能藉著默想聖經而得到豐盛的生命。
+"
+9789865801311,"『你的話是我腳前的燈，是我路上的光。』─詩篇119篇105節
+
+◎最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+◎特別預留筆記空間分六冊出版
+◎隨讀隨寫世，讀經亮光及時保存
+◎聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+
+"
+9789865801335,"『你的話是我腳前的燈，是我路上的光。』─詩篇119篇105節
+
+◎最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+◎特別預留筆記空間分六冊出版
+◎隨讀隨寫世，讀經亮光及時保存
+◎聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+
+"
+9789865801359,"『你的話是我腳前的燈，是我路上的光。』─詩篇119篇105節
+
+◎最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+◎特別預留筆記空間分六冊出版
+◎隨讀隨寫世，讀經亮光及時保存
+◎聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+"
+9789865801342,"『你的話是我腳前的燈，是我路上的光。』─詩篇119篇105節
+
+◎最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+◎特別預留筆記空間分六冊出版
+◎隨讀隨寫世，讀經亮光及時保存
+◎聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+"
+9789865801328,"『你的話是我腳前的燈，是我路上的光。』─詩篇119篇105節
+
+◎最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+◎特別預留筆記空間分六冊出版
+◎隨讀隨寫世，讀經亮光及時保存
+◎聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+"
+9789865801366,『你的話是我腳前的燈，是我路上的光。』─詩篇119篇105節◎最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經◎特別預留筆記空間分六冊出版◎隨讀隨寫世，讀經亮光及時保存◎聚會查經、外出差旅方便攜帶1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+9789865801298,"『你的話是我腳前的燈，是我路上的光。』 - 詩篇119篇105節
+
+‧ 最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經‧ 特別預留筆記空間分六冊出版‧ 隨讀隨寫世，讀經亮光及時保存‧ 聚會查經、外出差旅方便攜帶1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。 "
+9789865801281,"『你的話是我腳前的燈，是我路上的光。』 - 詩篇119篇105節
+
+‧ 最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經‧ 特別預留筆記空間分六冊出版‧ 隨讀隨寫世，讀經亮光及時保存‧ 聚會查經、外出差旅方便攜帶1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+"
+9789865801250,"『你的話是我腳前的燈，是我路上的光。』 - 詩篇119篇105節
+
+‧ 最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經‧ 特別預留筆記空間分六冊出版‧ 隨讀隨寫世，讀經亮光及時保存‧ 聚會查經、外出差旅方便攜帶1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。 "
+9789865801274,"『你的話是我腳前的燈，是我路上的光。』 - 詩篇119篇105節
+
+‧最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+‧特別預留筆記空間分六冊出版
+‧隨讀隨寫世，讀經亮光及時保存
+‧聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+
+"
+9789865801304,"『你的話是我腳前的燈，是我路上的光。』 - 詩篇119篇105節
+
+‧最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經
+‧特別預留筆記空間分六冊出版
+‧隨讀隨寫世，讀經亮光及時保存
+‧聚會查經、外出差旅方便攜帶
+
+1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。
+2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。
+3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。
+4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。
+5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。
+
+"
+9789865801267,"『你的話是我腳前的燈，是我路上的光。』 - 詩篇119篇105節
+
+‧ 最適合研經並紀錄珍貴QT(Quiet Time)心得的自學筆記聖經‧ 特別預留筆記空間分六冊出版‧ 隨讀隨寫世，讀經亮光及時保存‧ 聚會查經、外出差旅方便攜帶1. 多重選擇：依讀者使用便利出版兩種款式（活頁型、筆記型），還可靈活運用貼紙、色筆標註，使研經、讀經成為每日的一大享受。2. 方便攜帶：採用分卷方式（共六本）出版，外出聚會或出差、旅遊時，都可依當時的研經、讀經進度，帶需要的經卷即可。3. 隨讀隨記：每頁預留筆記空間，適合個人每日讀經，重點可紀錄，疑問也可寫下，方便之後去查考，否則很容易忘記當下的問題。4. 珍貴心得：可自行訂定讀經計畫，並保留每年的讀經體會，隔一段時間再讀時，常讓人有溫故知新之感，對神的經歷也有更多體會。5. 價格實在：為鼓勵讀者多多讀經，特出版分卷聖經，可讓讀者依據需要購買，並將聖經與筆記合而為一，不需又買聖經、又買筆記本。 "
+0080856005626,"△基石從美國Goglobal福音音樂機構引進這張詩歌演奏專輯　將為您打造一個滿有聖靈的屬靈氣氛△傾聽這張QT專輯使心情思緒沉靜下來　享受那份從聖詩音樂中帶來的喜樂與安穩 　　Quietime–Be Still(寧靜)，是基石音樂特別從美國Goglobal福音音樂機構所引進的詩歌演奏專輯，目的就是讓您透過輕柔靜謐的演奏，打造一個滿有神同在的屬靈氣氛，是張適合您在靜默、禱告、靈修時所使用的音樂。　　全長共78分鐘，透過聆聽這張專輯為您的生活注入一股寧靜與平安，輕柔靜謐的鋼琴演奏琴聲，在繁忙的一天中為您營造一個與神親密相處的美好時光。無論是在樂聲中的禱告默想、與朋友共餐的美好時光、親子間的睡前相處或是希望在一天工作完時渴望有個休憩的時間等，盼望這張「靜默時刻15」帶給您最好的屬靈氣氛與空間。"

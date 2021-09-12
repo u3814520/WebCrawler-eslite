@@ -11,10 +11,10 @@ ua = UserAgent()
 if not os.path.exists('./WebCrawle-eslite'):
     os.mkdir('./WebCrawle-eslite')
 
-keywords=str(input("請輸入搜尋關鍵字:"))
+keywords='c++程式'    #str(input("請輸入搜尋關鍵字:"))
 urlkeywords = urllib.parse.quote(keywords)
 manypage=int(input("請輸入需要幾頁:"))
-page=0
+page=10
 
 bookname=[]
 bookURL=[]
@@ -71,7 +71,7 @@ for p in range(0,manypage):
         except :
             picture.append('0')
         time.sleep(3)
-        print('{}有{}筆,共{}頁'.format(keywords,hitno,manypage))
+        print('{},共{}頁'.format(keywords,manypage))
     print('==第{}頁=={}'.format(p,keywords))
     page += 1
 

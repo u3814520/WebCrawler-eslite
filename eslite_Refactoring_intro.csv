@@ -1,0 +1,80 @@
+﻿ISBN,書籍簡介
+9780321793201,"Most software professionals spend much of their time working with someone else's brutally imperfect code. When you consider the serious constraints that legacy code was created under, it's no surprise it looks so bad. The question is: now what? In Brutal Refactoring, Michael Feathers starts with code bases ""as they are,"" not as ""we pretend them to be"" - and shows how to aggressively reshape them to make them maintainable and amenable to further development.  Brutal Refactoring takes the next steps beyond all previous refactoring books, including Feathers' own highly-praised Working Effectively with Legacy Code. Feathers shares new insights reflecting all he's learned in the eleven years since that book, and offers the first detailed practical advice on the unique nuances of system-wide refactoring.  Brutal Refactoring demonstrates Feathers' aggressive refactoring techniques through a series of exceptionally realistic case examples, introducing tactical ""recipes"" and high-level strategies for overcoming a wide range of legacy code challenges. Coverage includes:    Making intractable code understandable   Componentizing software factory and repository hubs   Sensing variables   Using in vitro test harnesses and production toggles   Mining runtimes   Decomposing heavily conditional code   Profiling good and bad code bases   Detecting and managing code hotspots   Uncovering patterns in code duplication   Performing domain discovery   Managing boundaries between object-oriented and procedural code   Using the Twist method to extract classes, and much more  "
+9781492075530,"Making significant changes to large, complex codebases is a daunting task--one that's nearly impossible to do successfully unless you have the right team, tools, and mindset. If your application is in need of a substantial overhaul and you're unsure how to go about implementing those changes in a sustainable way, then this book is for you.Software engineer Maude Lemaire walks you through the entire refactoring process from start to finish. You'll learn from her experience driving performance and refactoring efforts at Slack during a period of critical growth, including two case studies illustrating the impact these techniques can have in the real world. This book will help you achieve a newfound ability to productively introduce important changes in your codebase.Understand how code degrades and why some degradation is inevitableQuantify and qualify the state of your codebase before refactoringDraft a well-scoped execution plan with strategic milestonesWin support from engineering leadershipBuild and coordinate a team best suited for the projectCommunicate effectively inside and outside your teamAdopt best practices for successfully executing the refactor"
+9780134757599,"Whenever you read [Refactoring ], it's time to read it again. And if you haven't read it yet, please do before writing another line of code. -David Heinemeier Hansson, Creator of Ruby on Rails, Founder & CTO at Basecamp  Fully Revised and Updated--Includes New Refactorings and Code Examples  ""Any fool can write code that a computer can understand. Good programmers write code that humans can understand.""  -M. Fowler (1999) For more than twenty years, experienced programmers worldwide have relied on Martin Fowler's Refactoring to improve the design of existing code and to enhance software maintainability, as well as to make existing code easier to understand.  This eagerly awaited new edition has been fully updated to reflect crucial changes in the programming landscape. Refactoring, Second Edition,  features an updated catalog of refactorings and includes JavaScript code examples, as well as new functional examples that demonstrate refactoring without classes.  Like the original, this edition explains what refactoring is; why you should refactor; how to recognize code that needs refactoring; and how to actually do it successfully, no matter what language you use.  Understand the process and general principles of refactoring Quickly apply useful refactorings to make a program easier to comprehend and change Recognize ""bad smells"" in code that signal opportunities to refactor Explore the refactorings, each with explanations, motivation, mechanics, and simple examples Build solid tests for your refactorings Recognize tradeoffs and obstacles to refactoring  Includes free access to the canonical web edition, with even more refactoring resources. (See inside the book for details about how to access the web edition.)"
+9780321109293,This example-driven workbook shows how to unleash the significant power of refactoring and improve your software. It aims to help identify where problems in a software application exist or are likely to exist.
+9781492082279,"It takes a week to travel the 8,000 miles overland from Java to Kotlin. If you're an experienced Java developer who has tried the Kotlin language, you were probably productive in about the same time.You'll have found that they do things differently in Kotlin, though. Nullability is important, collections are different, and classes are final by default. Kotlin is more functional, but what does that mean, and how should it change the way that you program? And what about all that Java code that you still have to support?Your tour guides Duncan and Nat first made the trip in 2015, and they've since helped many teams and individuals follow in their footsteps. Travel with them as they break the route down into legs like Optional to Nullable, Beans to Values, and Open to Sealed Classes. Each explains a key concept and then shows how to refactor production Java to idiomatic Kotlin, gradually and safely, while maintaining interoperability.The resulting code is simpler, more expressive, and easier to change. By the end of the journey, you'll be confident in refactoring Java to Kotlin, writing Kotlin from scratch, and managing a mixed language codebase as it evolves over time."
+9789864766826,改善不良程式碼「我喜歡這本書的原因是，它系統性地陳述了重構是什麼以及不是什麼。這樣的聚焦觀點，幫助開發者在不改變程式碼行為的前提下提高品質，是每個JS開發者必備的資訊。這本書必讀。」－－JavaScript 導師／Kyle Simpson（“getify”）「重構JavaScipt為改進你的JavaScript程式碼指出了清晰的方向。這本書討論重構的工具和技巧，以及如何在不改變程式碼行為的前提下修改程式碼。全書中皆穿插附導引的範例，帶領讀者悠遊於重構程式碼所會涉入的複雜性之中。」－－威斯康辛大學史蒂芬斯角分校／Steven Suehring教授如果你的JavaScript程式碼是一團亂，那麼各種框架對你的幫助也實在有限。不管你使用什麼框架、編譯至JavaScript的語言或是函式庫，如果你的JavaScript品質堪憂，那臭蟲跟效能問題依舊無法被緩解。跟隨這本實務性的指南，你將學習到如何透過測試與重構程式碼來減少複雜度及增加可讀性，並且從現有的程式庫（codebase）取得信心。作者Evan Burchard將為你展示如何識別出不良的程式碼，並帶你見識數種重構的方法來對它們進行改良，這些技巧從最簡單的重命名變數一直到引入函數式與物件導向程式設計。如果你渴望寫出更優秀的JavaScript程式碼（不管是前端還是後端），一定會需要這本書。●在不改變程式碼行為的前提下，利用重構來重新組織程式碼●理解重構與程式碼品質之間的關係●探索現今使用的各種JavaScript版本●建立自動化測試來確認程式碼正確，並找到那些被忽略的臭蟲●學習如何重構簡單的JavaScript結構、函式、物件●引入物件導向與函數式程式設計來重構你的代碼庫●研究重構異步JavaScript的方法
+9789865027780,"「在一個龐大且不斷發展的源碼庫之中保持生產力似乎是一項薛西弗斯(Sisyphean)任務。本書將此過程分解成你可以立即應用的逐步指南。」 —Cal Henderson Slack首席技術長  「我很喜歡這本書中的案例研討。多麼希望能把這本書送給過去的自己，幫助她規劃大型遷移工作。其中探討的經驗教訓，有很多是我過去不得不硬著頭皮學會的。」 —Julia Evans Wizard Zines作者  對複雜的大型源碼庫進行重大變更是一項艱鉅的任務，除非你有合適的團隊、工具和心態，否則幾乎不可能成功完成。如果你的應用程式需要大幅改造，而你又不確定如何以可持續的方式實作這些變更，那麼本書就是為你準備的。  軟體工程師Maude Lemaire將引導你從頭到尾完成整個重構過程。你將從她在Slack關鍵成長期推動效能改善和重構工作的經驗中學習，包括兩個案例研討，闡明這些技巧在現實世界可以產生怎樣的影響。本書將幫助你獲得一種新的能力，幫助你在源碼庫中有效引入重要的變革。  ‧瞭解程式碼是如何劣化的，以及為什麼有些劣化情形是無可避免的 ‧在重構之前，對你源碼庫的狀態進行定量和定性分析 ‧起草一份範疇明確的執行計畫，設下策略性的里程碑 ‧贏得工程管理階層的支持 ‧建立並協調出最適合該專案的團隊 ‧在團隊內部和外部進行有效溝通 ‧採用最佳實務做法，成功執行重構"
+9789865021832,“任何一個傻瓜都能寫出電腦可以理解的程式，唯有優秀的程式設計師能寫出讓人讀懂的程式。” —M. Fowler (1999) 完全修訂及更新：包含新的重構方法和範例程式 二十多年來，世界各地經驗豐富的程式員都使用Martin Fowler的《重構》來改善既有程式的設計、提升軟體的易維護性，以及讓既有的程式更容易被人瞭解。 為了反映程式設計領域的重大變化，作者全面翻新書籍內容，推出這本備受期待的新版本。《重構 第二版》提供了新的重構名錄，加入JavaScript範例程式以及新的實用範例來展示各種重構。 這個版本與第一版一樣，將解釋什麼是重構、為何重構、如何認出需要重構的程式，以及如何成功地重構，無論你是使用哪一種語言。 ‧瞭解重構的程序與一般原則 ‧快速運用實用的重構技術，讓程式更容易理解與修改 ‧辨認暗示有待重構的程式碼“異味” ‧探討重構，每一個案例都包括說明、動機、作法與簡單的範例 ‧為重構建立可靠的測試程式 ‧認識重構的取捨與障礙 本書原文網站提供免費的web標準版本，包含更多重構資源，書中內容將說明如何取得。
+9789864763658,架構完善的樣式表 編寫程式時常常會需要重新檢視程式碼，並移除多餘及不一致的碼，這就是重構。在這本實務指引中，作者Steve Lindstrom不但會帶您架構CSS，建造出易於操作的響應式網站，也會教您如何透過重構，創建出更容易檢閱及維護的CSS。好的CSS是現代網站外觀與質感的基礎，與架構網站的HTML及運行程式的JavaScript同樣重要。不論你是才開始要執行第一個CSS專案或是要對現有的專案進行校調，本書延續一貫堅持優良架構的原則，提供您建造CSS碼庫的策略。‧瞭解什麼是重構以及其與CSS的關係‧探索網頁瀏覽器如何透過串接而套用樣式的方法‧編寫可預期、易維護、能擴充且方便複用的樣式碼‧為CSS樣式分類並視其目的作適當運用‧在各式瀏覽器與裝置上進行測試以維護CSS‧汲取組織樣式、重構CSS及評估成效的策略
+9789865021085,第五版：透過安全軟體系統開發週期（SSDLC）來確保資安，群聚外包（crowdsourcing）與技術負債（technical debt）等概念，同時也介紹了軟體重構（refactoring）在大數據（big data）的運用。本書結合軟體工程的核心知識與實務應用，透過實例帶領讀者學會如何開發與管理軟體產品。內容包括：●軟體工程的基本觀念：先釐清「程式」、「軟體系統」、「應用系統」、「軟體開發」與「軟體生命週期」等基本概念。●軟體工程的程序與方法：軟體系統的開發從開始規劃、分析、設計、製作、測試、上線使用到維護，分成好幾個階段，每一個階段有一些可以採用的方法與技術。●現代物件導向軟體工程：這是目前軟體開發最普遍採用的技術，很多開發工具與技術都運用了物件導向的概念。●安全軟體系統開發週期（SSDLC）：政府與一般企業開始要求在軟體開發時就採用的開發流程與方法，防止種下資安的漏洞。●軟體工程相關的技術：包括軟體再用、MDA（model-driven architecture）、反向工程、設計模式、CMMI、軟體重構、新舊系統的轉換等。●軟體工程的新發展：包括軟體產品線、雲端運算、App、軟體安全、服務導向的架構（SOA，service-oriented architecture）與觀點導向（aspect-oriented）的開發技術等。本書適用對象：●做為軟體工程相關課程教科書，內容約對應到18週（54小時）的學期課程。●資訊專業人士：建立軟體工程方面的專業背景。●對於軟體開發有興趣的技術人員：探討了很多軟體開發方面的原理與策略，可以提昇專業能力與解決問題的技巧。●軟體產品的推廣人員：有軟體工程的背景會更了解軟體的特性與用途。
+9789864763689,第四版加入了群聚外包(crowdsourcing)與技術負債(technical debt)等概念，同時也介紹了軟體重構(refactoring)在大數據(big data)的運用。本書結合軟體工程的核心知識與實務應用，透過實例帶領讀者學會如何開發與管理軟體產品。內容包括：．軟體工程的基本觀念：先釐清「程式」、「軟體系統」、「應用系統」、「軟體開發」與「軟體生命週期」等基本概念。．軟體工程的程序與方法：軟體系統的開發從開始規劃、分析、設計、製作、測試、上線使用到維護，分成好幾個階段，每一個階段有一些可以採用的方法與技術。．現代物件導向軟體工程：這是目前軟體開發最普遍採用的技術，很多開發工具與技術都運用了物件導向的概念。．軟體工程相關的技術：包括軟體再用（software reuse）、MDA（model-driven architecture）、反向工程（reverse engineering）、設計模式（design patterns）、CMMI、軟體重構（refactoring）、新舊系統的轉換等。．軟體工程的新發展：包括軟體產品線、雲端運算、App、軟體安全、服務導向的架構（SOA，service-oriented architecture）與觀點導向（aspect-oriented）的開發技術等。本書適用對象：．做為軟體工程相關課程教科書，內容約對應到18週（54小時）的學期課程。．資訊專業人士：建立軟體工程方面的專業背景。．對於軟體開發有興趣的技術人員：探討了很多軟體開發方面的原理與策略，可以提昇專業能力與解決問題的技巧。．軟體產品的推廣人員：有軟體工程的背景會更了解軟體的特性與用途。
+9789864340873,"本書名列中文原創經典第05號
+本書為經典名著的最佳實踐
+．Clean Code : A Handbook of Agile Software Craftsmanship
+．Beautiful Code : Leading Programming Explain How They Think
+．The Art of Readable Code
+．Design Patterns : Elements of Reusable Object-Oriented Software
+．Agile Software Development : Principles, Patterns, and Practices
+．Refactoring : Improving The Design of Existing Code
+
+程式碼的可讀性、可擴展性、可測試性是攸關程式碼品質的重要參考指標。本書教您如何寫好程式，分析劣質程式碼所帶來的不愉快經驗，主張採用接近自然語言的方式來書寫程式碼，並針對提升設計能力、英語能力，熟悉開發環境、瞭解程式語言等諸多方面提出相應的具體改善策略。
+
+為什麼寫不出好的程式碼?
+．對理論知識瞭解不夠會造成不佳的程式設計習慣，進而帶來潛在的Bug風險。
+．受限於舊版本與程式語言的不熟悉，而無法掌握最新的產品特性來書寫更為精煉的程式碼。
+．不瞭解設計方法而耗費大量時間，把簡單問題複雜化，重複實作已有完整解決方案的程式碼。 
+．設計方法不佳造成程式碼的問題，如重複與類似、長方法、複雜分支、類別膨脹。
+．對於開發環境不夠熟悉，導致很多方便、快捷的功能沒有獲得良好的利用，如重構技術、外掛程式。
+．能掌握的英語單詞量不足、語法不明確、詞性不熟悉等原因，造成程式碼在書寫上與閱讀上的苦惱。
+．套用相似案例的快速學習法，使得程式碼未能保持最佳風格，甚至會因思慮不周而讓可讀性變差。
+．為了快速完成功能而採用臨時的解決方案，往往留下了技術債務，無法因應系統的變動與修改Bug。
+．在任務分配的管理模式下，程式師只是機械式地堆砌程式碼，無法在設計的環節上作全面性的思考。
+
+優質程式碼的参考指標
+本書就劣質程式碼產生的技術層面及原因提出了相關分析和探討。但書寫程式碼不僅是技術工作，更是一門藝術學問。好的程式碼應該是讓使用者能夠快速閱讀、容易測試、進行擴展。
+程式碼就像是能夠自我表達的語言，如何採用接近自然語言的方式書寫程式碼，就像文章一樣讀起來朗朗上口，一看到程式碼就知道軟體執行什麼工作，那麼對程式碼的理解將不必再依靠繁雜的註解和厚厚的文件，而維護人員也不必擔心程式碼和文件或者註解不一致的問題了，程式碼本身就可以表明其作用。這就是自我表達程式碼（Self-Expressive Code）的概念。"
+9789864340460,"當你接受一個遺留系統被賦予新增功能的任務時，首先，你會去看看原始碼，糟糕，原始碼一團亂，怎麼辦呢？是重構後加入新功能，還是另外寫新功能不要去碰觸舊有的程式碼呢？ 面對運行了許久的大型遺留系統，工程師常常糾結在「改」還是「不改」的抉擇中？而在大多數的情況下，台灣的工程師總是決定對於遺留系統採取容忍的態度，一忍再忍，再忍，忍，還要忍……終於累積到了某一天，實在是忍無可忍時，拍案而起，不能再忍了，終於喊出「我要重構！！！」事情就這樣發生了。然而，此時你會突然發現，重構的工作千頭萬緒，不知從何開始。
+還是回頭拿起書架裡的重構教科書來看看吧，就是那本由兩位大師Martin Fowler, Kent Beck和其他三人合寫的《Refactoring: Improving the Design of Existing Code》，想要在其中找找看怎樣來重構比較妥當。這本重構經典書告訴你，要重構就不能把原有功能給破壞了，所以在開始重構之前，首先應建立起「自動化測試」。好的，那我們就去打開測試程式吧！什麼，遺留系統沒有測試程式，那該怎麼辦呢？遺留系統不是用TDD開發的，那…那，我們要怎樣重構才能保證原有功能不會出錯呢？慘了，在第一關就卡住了。硬著頭皮幹吧，反正就是另外再寫新功能，不要去動到舊有的程式碼就對了。是的，這就是現實中大多數台灣工程師的作法。可是這樣做，程式碼的品質就越來越差了，不論是自己後面要再加新功能或者是丟給別人來接手，無疑都是場災難。
+回過頭來說，那本重構經典書不就英雄無用武之地了嗎？嗯，雖然那本書寫得很好，但是不夠本土化。先來看看台灣的環境吧，在台灣開發軟體，起初都是工作室型態的，用最快的速度、最少的人力，開發出滿足客戶需求的軟體，快速上線運行就OK了。什麼程式碼品質，什麼可讀、可維護、易變更，全都不用考慮。別說測試程式碼，就是程式碼可測性都沒有人會去考慮。這樣的方式讓軟體開發公司快速拿到了第一桶金，但為日後的維護與軟體發展帶來了隱憂。而在美國情況完全不是這樣子的，寫程式就是該寫品質好的程式碼，就是該有測試，所以該書假設的前提都是對的，故而如何讓遺留系統建立起「自動化測試」，大師在書中隻字未提。換句話說，重構經典書的前提不適用於台灣。我們需要的是一本真正適用於台灣真實情況的重構書籍，而《大話重構》就是您最佳的選擇。也因此，本書被列為博碩文化《中文原創經典》的第一本書。
+
+本書把常見的，如抽取類別、抽取方法、用多型取代條件等等數十種重構手法全部都放到附錄中（這些手法我們稱之為重構工具箱），因為那些在別本重構書籍裡通通查得到。本書當然也會提到那些工具，但並非本書的重點。本書要講的是重構的觀念（例如何時重構）、如何一步一步地重構，如何面對遺留系統，如何說服老闆來重構，本書所提的是一種系統與設計層級的重構，而非單單只是程式碼層級的重構。
+本書會以真實的遺留系統案例，來親自示範如何一步一步地重構，直到這個系統可以輕鬆應付未來的變更。同時，本書也強調許多觀念，例如不要做大佈局，因為『大佈局，你傷不起！』，本書強調只做今天的設計，解決今天的問題，完成今天的重構，讓明天見鬼去吧。因為你不是先知，你無法預測未來，做過多的設計是在浪費時間，要做的是『好的設計』而非『過多的設計』。什麼是『好的設計』，那就是明確地分層解耦，讓你的系統很可很輕鬆地面對將來未知的需求變更。
+本書作者的程式與設計功力深厚，但撰寫這本書時，常常能夠站在基層工程師的角度出發，例如，對於大多數老闆而言，重構沒有立即效益，所以要如何說服老闆對遺留系統進行重構給予支持，才是重構得以實行的關鍵。只要你有『一點點』設計模式的底子，相信這本書會協助您解決許多正面臨的困難。
+本書既稱之為『大話』重構，自然在文字用語上會有一些特色，以下舉幾個經典例句：
+
+●「小步快跑」
+● 糟糕設計零容忍！
+● 小設計可以讓你獲得成功！
+● 自動化測試——想說愛你不容易
+● 系統重構最後的一里路——測試的困境。
+● 活在當下，設計今天的程式，讓明天的變化見鬼去吧！
+● 測試與重構形成了一個「雞生蛋，還是蛋生雞」的奇怪循環。
+● 合久必分，分久必合——類別的歸併
+● 領域才是軟體系統的「心」！
+● 開發糟糕程式碼是可恥的！
+● 大佈局你傷不起！
+● 「兩頂帽子」
+
+這本書是一本關於重構，實踐經驗分享的書，至於這本書能夠帶給您多少的領悟，還得由您細細體會。"
+9789862019306,"本書為經典名著的最佳實踐●Clean Code : A Handbook of Agile Software Craftsmanship●Beautiful Code : Leading Programming Explain How They Think●The Art of Readable Code●Design Patterns : Elements of Reusable Object-Oriented Software●Agile Software Development : Principles, Patterns, and Practices●Refactoring : Improving The Design of Existing Code程式碼的可讀性、可擴展性、可測試性是攸關程式碼品質的重要參考指標。本書教您如何寫好程式，分析劣質程式碼所帶來的不愉快經驗，主張採用接近自然語言的方式來書寫程式碼，並針對提升設計能力、英語能力，熟悉開發環境、瞭解程式語言等諸多方面提出相應的具體改善策略。為什麼寫不出好的程式碼?●對理論知識瞭解不夠會造成不佳的程式設計習慣，進而帶來潛在的Bug風險。●受限於舊版本與程式語言的不熟悉，而無法掌握最新的產品特性來書寫更為精煉的程式碼。●不瞭解設計方法而耗費大量時間，把簡單問題複雜化，重複實作已有完整解決方案的程式碼。 ●設計方法不佳造成程式碼的問題，如重複與類似、長方法、複雜分支、類別膨脹。●對於開發環境不夠熟悉，導致很多方便、快捷的功能沒有獲得良好的利用，如重構技術、外掛程式。●能掌握的英語單詞量不足、語法不明確、詞性不熟悉等原因，造成程式碼在書寫上與閱讀上的苦惱。●套用相似案例的快速學習法，使得程式碼未能保持最佳風格，甚至會因思慮不周而讓可讀性變差。●為了快速完成功能而採用臨時的解決方案，往往留下了技術債務，無法因應系統的變動與修改Bug。●在任務分配的管理模式下，程式師只是機械式地堆砌程式碼，無法在設計的環節上作全面性的思考。優質程式碼的?考指標本書就劣質程式碼產生的技術層面及原因提出了相關分析和探討。但書寫程式碼不僅是技術工作，更是一門藝術學問。好的程式碼應該是讓使用者能夠快速閱讀、容易測試、進行擴展。程式碼就像是能夠自我表達的語言，如何採用接近自然語言的方式書寫程式碼，就像文章一樣讀起來朗朗上口，一看到程式碼就知道軟體執行什麼工作，那麼對程式碼的理解將不必再依靠繁雜的註解和厚厚的文件，而維護人員也不必擔心程式碼和文件或者註解不一致的問題了，程式碼本身就可以表明其作用。這就是自我表達程式碼（Self-Expressive Code）的概念。"
+9789862017050,"本書榮獲iThome年度百大好書推薦
+
+•	本書的原文書名為《Clean Code: A Handbook of Agile Software Craftsmanship》，根據作者的說法，《無瑕的程式碼》為Jolt得獎著作《敏捷軟體開發：原則、樣式及實務》的前傳。
+•	在台灣另一本銷售極佳的書籍《重構─改善既有程式的設計》，根據亞馬遜Amazon網站的統計，購買該書原文版《Refactoring: Improving the Design of Existing Code》，又同時購買的其他書籍第一名，正是《Clean Code: A Handbook of Agile Software Craftsmanship》這一本書。
+
+•	第一章
+作者開宗明義說明什麼是Clean Code，
+他詢問了包含C++發明人Bjarne Stroustrup、Eclipse策略教父Dave Thomas、極限程式設計大師Ron Jeffries、維基與極限程式設計發明人，Ward Cunningham等等的大師，
+從他們的眼光來描述什麼是Clean Code，最後才說到作者本人認為的Clean Code應該長成什麼樣子，有什麼好處，以及學習撰寫Clean Code的基本原則。
+•	小編只能說，能和那麼多大師對談，就已經證明了作者也是一位大師
+
+其餘部分本書分成三部份。 　
+
+•	第一部份
+包含有許多章節，這些章節將描述撰寫clean code的原則、模式及實踐，這些章節包含了不少的程式碼篇幅，閱讀它們頗具有挑戰性。這些章節替你準備好閱讀第二部份所需的背景知識。
+•	第二部份
+這裡包含許多複雜性不斷增加的案例討論。在這個部分，作者會直接帶領您進行整個重構的過程，每次的修改，作者都會說明原因，重構的對象並不僅止於一般的程式，甚至還包含了著名的框架，例如JUnit（哇！把開放原始碼框架拿來重構，真酷)。
+•	第三部份
+終於到了成果收割的時候。最後一章列出了案例討論時搜集到的程式啟發和氣味。在案例討論裡走過和清理程式碼時，紀錄了每個行為的原因，並整理成一種程式啟發或氣味，成了一個知識庫，這個知識庫可以說是整本書的精華與交互參照。"

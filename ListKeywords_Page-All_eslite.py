@@ -11,7 +11,7 @@ ua = UserAgent()
 if not os.path.exists('./WebCrawle-eslite'):
     os.mkdir('./WebCrawle-eslite')
 
-total=['Penetration testing','滲透測試','區塊鏈','Blockchain','程式交易','虛擬化技術','Virtualization']
+total=['Operating system','After Effects','photoshop','illustrator','Premiere']
 for keywords in total:
 
 # keywords=str(input("請輸入搜尋關鍵字:"))
@@ -87,7 +87,7 @@ for keywords in total:
                 picture.append(book_picture)
             except :
                 picture.append('0')
-            time.sleep(3)
+            time.sleep(5)
             print('{}有{}筆,共{}頁'.format(keywords,hitno,manypage))
         print('==第{}頁=={}'.format(p,keywords))
         page += 1
