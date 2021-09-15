@@ -11,12 +11,13 @@ ua = UserAgent()
 if not os.path.exists('./WebCrawle-eslite'):
     os.mkdir('./WebCrawle-eslite')
 
-keywords='c++程式'    #str(input("請輸入搜尋關鍵字:"))
+keywords=str(input("請輸入搜尋關鍵字:"))
 urlkeywords = urllib.parse.quote(keywords)
-manypage=int(input("請輸入需要幾頁:"))
-page=10
+manypage=int(input("請輸入幾頁:"))
+page=0
 
 bookname=[]
+
 bookURL=[]
 bookauthor=[]
 booksupplier=[]
@@ -47,29 +48,40 @@ for p in range(0,manypage):
         newheaders = {'Referer': book_URL}
         newres = requests.get(newurl, headers=newheaders)
         newData = json.loads(newres.text)
-        book_name = newData['name']  # 書名
-        bookname.append(book_name)
-        book_author = newData['auth']  # 作者
-        bookauthor.append(book_author)
-        book_supplier = newData['supplier']  # 出版社
-        booksupplier.append(book_supplier)
-        book_isbn13 = newData['isbn13']  # ISBN
-
-        book_descriptions = newData['descriptions'] #書籍簡介
         try:
+            book_name = newData['name']  # 書名
+            bookname.append(book_name)
+        except KeyError:
+            bookname.append('0')
+        try:
+            book_author = newData['auth']  # 作者
+            bookauthor.append(book_author)
+        except KeyError:
+            bookauthor.append('0')
+        try:
+            book_supplier = newData['supplier']  # 出版社
+            booksupplier.append(book_supplier)
+        except KeyError:
+            booksupplier.append('0')
+        try:
+            book_isbn13 = newData['isbn13']  # ISBN
+            bookisbn13.append(book_isbn13)
+        except KeyError:
+            bookisbn13.append(' ')
+        try:
+            book_descriptions = newData['descriptions'] #書籍簡介
             book_description=book_descriptions[0]['description']  #書籍簡介
             red = BeautifulSoup(book_description, "html.parser")
-            # strred=str(red).replace('<BR>','').replace('<BR/>','').replace('<b>','').replace('</b>','').replace('<br>','').replace('<br/>','').replace('<P>','').replace('</P>','').replace('<p>','').replace('<div>','').replace('</div>','').replace('/r','')
             description.append(red.text)
         except:
             description.append('0')
-        bookisbn13.append(book_isbn13)
-        bookphotos = newData['photos']    #書籍圖片
         try:
+            bookphotos = newData['photos']    #書籍圖片
             book_picture = 'https://s.eslite.dev' + bookphotos[0]['large_path']  # 書籍圖片
             picture.append(book_picture)
         except :
             picture.append('0')
+
         time.sleep(3)
         print('{},共{}頁'.format(keywords,manypage))
     print('==第{}頁=={}'.format(p,keywords))
