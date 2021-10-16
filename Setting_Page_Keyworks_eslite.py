@@ -83,7 +83,7 @@ for p in range(0,manypage):
             picture.append('0')
 
         time.sleep(3)
-        print('{},共{}頁'.format(keywords,manypage))
+        print('{},共{}頁'.format(book_name,manypage))
     print('==第{}頁=={}'.format(p,keywords))
     page += 1
 
